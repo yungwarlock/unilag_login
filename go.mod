@@ -1,4 +1,4 @@
-module yungwarlock.dev/go/unilag_login
+module github.com/yungwarlock/unilag_login
 
 go 1.19
 
